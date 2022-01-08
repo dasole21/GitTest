@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		FC4AB7B42789B3A000E6E0B7 /* View1.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC4AB7B32789B3A000E6E0B7 /* View1.swift */; };
+		FC4AB7B62789B6B500E6E0B7 /* View2.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC4AB7B52789B6B500E6E0B7 /* View2.swift */; };
 		FC85A9E427709B8D0074E48E /* GitTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC85A9E327709B8D0074E48E /* GitTestApp.swift */; };
 		FC85A9E627709B8D0074E48E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC85A9E527709B8D0074E48E /* ContentView.swift */; };
 		FC85A9E827709B9F0074E48E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC85A9E727709B9F0074E48E /* Assets.xcassets */; };
@@ -36,6 +37,7 @@
 
 /* Begin PBXFileReference section */
 		FC4AB7B32789B3A000E6E0B7 /* View1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View1.swift; sourceTree = "<group>"; };
+		FC4AB7B52789B6B500E6E0B7 /* View2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View2.swift; sourceTree = "<group>"; };
 		FC85A9E027709B8C0074E48E /* GitTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC85A9E327709B8D0074E48E /* GitTestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTestApp.swift; sourceTree = "<group>"; };
 		FC85A9E527709B8D0074E48E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 			isa = PBXGroup;
 			children = (
 				FC4AB7B32789B3A000E6E0B7 /* View1.swift */,
+				FC4AB7B52789B6B500E6E0B7 /* View2.swift */,
 			);
 			path = view;
 			sourceTree = "<group>";
@@ -271,6 +274,7 @@
 				FC85A9E627709B8D0074E48E /* ContentView.swift in Sources */,
 				FC4AB7B42789B3A000E6E0B7 /* View1.swift in Sources */,
 				FC85A9E427709B8D0074E48E /* GitTestApp.swift in Sources */,
+				FC4AB7B62789B6B500E6E0B7 /* View2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
