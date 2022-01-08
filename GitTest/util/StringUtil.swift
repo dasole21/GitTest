@@ -16,4 +16,7 @@ struct StringUtil {
         return text.last
     }
 
+    static func getString(text: String) -> String {
+        return text
+    }
 }
