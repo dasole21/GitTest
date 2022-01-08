@@ -8,9 +8,18 @@
 import Foundation
 
 struct StringUtil {
-    static func getFirst(text: String) -> Character? {return text.last}
+    static func getFirst(text: String) -> Character? {
+        print("getFirst, text : \(text)")
+        return text.first
+    }
     
-    static func getLast(text: String) -> Character? {return text.first}
+    static func getLast(text: String) -> Character? {
+        print("getLast, text : \(text)")
+        return text.last
+    }
     
-    static func getLast2(text: String) -> Character? {return text.first}
+    static func getLast2(text: String) -> Character? {
+        print("getLast2, text : \(text)")
+        return text.last
+    }
 }
