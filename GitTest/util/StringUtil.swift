@@ -15,8 +15,4 @@ struct StringUtil {
     static func getLast(text: String) -> Character? {
         return text.last
     }
-
-    static func getString(text: String) -> String {
-        return text
-    }
 }
